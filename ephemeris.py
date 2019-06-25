@@ -1,3 +1,6 @@
+# This function generates an ephemeris for an asteroid given the inputs as directed below 
+# Last modified August 2017 at the Summer Science Program in Boulder, CO
+
 from math import *
 
 #import magnitude finder 
@@ -105,4 +108,5 @@ def ephemeris(e, a, i1, bOmega1, sOmega1, m01, t):
     raSec = (60 * (ra/15 - raHr) - raMin) * 60
     print "RA Hr: ", raHr, "RA Min: ", raMin, "RA Sec: ", raSec
     
+# a test input
 ephemeris(0.7654035254, 2.236572976, 4.959459269, 338.8496637, 168.1622182, 43.510113400153, 2457957.7190240743)
