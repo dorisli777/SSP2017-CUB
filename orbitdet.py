@@ -1,3 +1,5 @@
+# This function gives the six orbital elements of an asteroid given a data file containing RA and DEC.  
+
 from math import *
 
 #magnitude function
