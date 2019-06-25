@@ -1,4 +1,5 @@
-# This function gives the six orbital elements of an asteroid given a data file containing RA and DEC.  
+# This function gives the six orbital elements of an asteroid given a data file containing RA and DEC.
+# Last modified August 2017 at the Summer Science Program in Boulder, CO
 
 from math import *
 
