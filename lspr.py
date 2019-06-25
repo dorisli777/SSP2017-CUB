@@ -1,3 +1,5 @@
+# This function finds the RA and DEC of an asteroid given the known coordinates of a set of stars in the image.
+
 from math import *
 
 #import det3x3 and other solvers
