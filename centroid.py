@@ -1,3 +1,6 @@
+# This function calculates the center of mass and centroid of an asteroid given a data file, an origin, and dimension 
+# Last modified August 2017 at the Summer Science Program in Boulder, CO
+
 from math import *
 from vpython import *
 
