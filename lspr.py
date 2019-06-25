@@ -1,4 +1,5 @@
 # This function finds the RA and DEC of an asteroid given the known coordinates of a set of stars in the image.
+# Last modified August 2017 at the Summer Science Program in Boulder, CO
 
 from math import *
 
